@@ -24,7 +24,7 @@ $domisilis =["Jakarta", "Tanggerang", "Bogor", "Bekasi", "Depok", "Lainnya"];
     <div class="container">
         <h2>Form Registrasi IT Club</h2>
         <hr>
-<form method="POST" action="proses_register.php">
+<form method="POST" action="proses_registrasi.php">
   <div class="form-group row">
     <label for="nim" class="col-4 col-form-label">NIM</label> 
     <div class="col-8">
