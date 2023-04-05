@@ -13,6 +13,6 @@ $st_delete = $dbh->prepare($sql_delete);
 $st_delete->execute([$_iddel]);
 
 // Redirect to product list page
-header('location:list.php');
+header('location:list_produk.php');
 
 ?>
